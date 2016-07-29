@@ -1,2 +1,2 @@
 # nyt_news_headlines
-## The New York Times Headlines
+### Scraping the New York Times Headlines
