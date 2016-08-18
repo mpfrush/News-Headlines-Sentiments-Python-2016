@@ -7,6 +7,6 @@ Files in the repository (programs are written in Python 2.7):
  - NYT_FOX_sentiment_DATA_analysis.ipynb is data analysis for the New York Times and Fox news headlines sentiments. 
  
 Conclusions: 
-- the New York Times are in favor of Hillary Clinton;
+- The New York Times are in favor of Hillary Clinton.
 - Fox news are unbiased.
  
